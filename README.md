@@ -21,7 +21,7 @@ This project combines custom 3D mechanical design, a custom-designed PCB, and an
 - **/Firmware:** Arduino/ESP32 source code for servo kinematics, color sensing, and scale calibration.
 - **/Docs:** Circuit schematic PDF, Bill of Materials (BOM), and JLCPCB cart verification screenshot.
 
-## 🚀 Assembly & Replication Instructions
+## Assembly & Replication Instructions
 1. **Mechanical Build:** 3D print the structural parts from the `/CAD` folder and assemble using M3 hardware, timing belts, and pulleys.
 2. **PCB Fabrication:** Upload `Hardware/Gerbers/sorting_arm_gerbers.zip` to JLCPCB along with the BOM.
 3. **Flashing Firmware:** Open `/Firmware/sorting_arm_firmware.ino` in the Arduino IDE, install the required libraries (`Adafruit_TCS34725`, `HX711`), and flash to your ESP32.

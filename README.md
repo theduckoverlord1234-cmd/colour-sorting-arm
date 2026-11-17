@@ -1,4 +1,4 @@
-# colour/weight-sorting-arm
+# Sorting Master
 # 4-DOF Auto Sorting Robot Arm
 
 An automated 4 Degree of Freedom (4-DOF) robotic arm designed to sort objects dynamically based on color and weight, built for the Hack Club Fabricate grant.

@@ -1,5 +1,5 @@
 ---
-title: "Colour sorting robot arm"
+title: "Colour-Weight sorting robot arm"
 github: "https://github.com/theduckoverlord1234-cmd/colour-sorting-arm"
 description: "I'm going to make a 4 DOF robot arm that can sort coloured objects into respective bins using a small camera. I want to make this because its going to teach me lots about automation, improve my 3d design skills, and will also help me understand the fundementals of servo \u0026 motor controls."
 created_at: "2026-11-13"

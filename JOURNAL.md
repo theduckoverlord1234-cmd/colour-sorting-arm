@@ -56,7 +56,7 @@ Github is really really confusing any annoying, but I've managed to get some stu
 
 ![](https://fabricate.hackclub-assets.com/b19cc8d0db20bfb42ad5ba3217ab8ebab7655ab5ddacce67e67b50fc4d2ab06b/image-png/image.png)
 
-**Total time spent: 8h 42m**
+**Total time spent: 2h 42m**
 
 # November 17, 2026: Github repo and organisation for final submission
 <!-- fabricate:entry 3298 -->

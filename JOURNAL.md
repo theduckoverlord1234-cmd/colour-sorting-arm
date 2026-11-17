@@ -14,7 +14,7 @@ I made the base really easily and I managed to import all the components without
 ![](https://fabricate.hackclub-assets.com/7b75b4b9111675d246c93486348a718238e1ec6479064c81e4231edaa8f0c7f9/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/032df2022a1c82122892b7f501d3b61ebc760386b26ef80faaff3b229eba5d58/image-png/image.png)
 
-**Total time spent: 6m**
+**Total time spent: 6 hours**
 
 # November 14, 2026: Made the 2 booms
 <!-- fabricate:entry 2980 -->
@@ -26,7 +26,7 @@ I managed to figure out how to use revolute joints and rigid body groups to make
 ![](https://fabricate.hackclub-assets.com/f24f107934c6199ab6d4037312844293b66f731c05b201ed888f55210b665f25/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/8e8be80c7782733a74de9bbff2bf4ede8861f27dd3692ab2dd7a55d27ce0c805/image-png/image.png)
 
-**Total time spent: 18h**
+**Total time spent: 8h**
 
 # November 16, 2026: Pinchers and movement physics
 <!-- fabricate:entry 3191 -->
@@ -37,7 +37,7 @@ I made the pinchers and movement physics, the pinchers were very complicated to 
 ![](https://fabricate.hackclub-assets.com/fe9cbf73fd4f2ef2a9d1c65d651aafeb3de9fff91e8398c62f7a1df6ade5ee76/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/c800d373f4f23bffe09d7695763ad8bf76f18a4a193f94def24c21bba8f88f49/image-png/image.png)
 
-**Total time spent: 18h**
+**Total time spent: 10h**
 
 # November 16, 2026 (entry 2): Made the full PCB
 <!-- fabricate:entry 3200 -->
@@ -47,7 +47,7 @@ I decided to make a pcb for the project as its going to have quite a lot of comp
 ![](https://fabricate.hackclub-assets.com/39961d96306a927b6cb049079ba828a2bfdd9ac3e7967c3d197a7d89a3f3058c/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/d59701a23295b118270f48e8821c4015f03a427e3a3dee7e70bba7f5e1b310b3/image-png/image.png)
 
-**Total time spent: 4h 42m**
+**Total time spent: 6h 42m**
 
 # November 16, 2026 (entry 3): I started on the BOM and github repository
 <!-- fabricate:entry 3241 -->
@@ -56,7 +56,7 @@ Github is really really confusing any annoying, but I've managed to get some stu
 
 ![](https://fabricate.hackclub-assets.com/b19cc8d0db20bfb42ad5ba3217ab8ebab7655ab5ddacce67e67b50fc4d2ab06b/image-png/image.png)
 
-**Total time spent: 4h 42m**
+**Total time spent: 8h 42m**
 
 # November 17, 2026: Github repo and organisation for final submission
 <!-- fabricate:entry 3298 -->
@@ -65,4 +65,4 @@ Jesus Christ I never ever ever ever want to use github again. It's so overly com
 
 ![](https://fabricate.hackclub-assets.com/fe68c98792ff2ddef8e581eac110a91f5d712e04c9bd1311171a43dd5ca12d73/image-png/image.png)
 
-**Total time spent: 11h**
+**Total time spent: 3h**

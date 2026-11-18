@@ -1,18 +1,11 @@
-Item,Category,Part Description,Quantity,Unit Price (THB),Total Price (THB),Total Price (USD),Scraps Equivalent,Supplier / Source,Notes
-1,Actuators,MG996R Metal-Gear Standard Servo (180 deg),2,120.00,240.00,7.00,14,Shopee Thailand,Base yaw turntable and shoulder pitch drive
-2,Actuators,MG90S Metal-Gear Micro Servo (180 deg),4,60.00,240.00,7.00,14,Shopee Thailand,1x elbow pitch + 2x dual-servo gripper + 1x spare
-3,Drivetrain,GT2 Timing Belt & Pulley Kit (20T + 40T 5mm bore 6mm belt),1,120.00,120.00,3.50,7,Shopee Thailand,2:1 shoulder pitch belt reduction
-4,Bearings,3-Inch Square Lazy Susan Turntable Bearing (~71x71mm),1,35.00,35.00,1.00,2,Shopee Thailand,Base yaw support ring
-5,Bearings,608ZZ Deep Groove Ball Bearings (8x22x7mm - Pack of 4),1,60.00,60.00,1.75,4,Shopee Thailand,Main shoulder pivot axle support
-6,Hardware,8mm Stainless Steel Linear Shaft (100mm length),1,50.00,50.00,1.50,3,Shopee Thailand,Main rotating shoulder shaft
-7,Microcontroller,ESP32-WROOM-32 DevKitC (38-pin USB-C),1,160.00,160.00,4.70,10,Shopee Thailand,Main controller for PWM servos and I2C/ADC sensors
-8,Sensors,TCS34725 RGB Color Sensor Module (with white LED),1,110.00,110.00,3.20,7,Shopee Thailand,Mounted over pickup tray for color classification
-9,Sensors,1kg Load Cell + HX711 24-bit ADC Amplifier Module Kit,1,90.00,90.00,2.65,6,Shopee Thailand,Mounted under pickup tray for weight sorting
-10,Power,12V 3A (36W) DC Wall Power Adapter + 5.5x2.1mm Barrel Jack,1,140.00,140.00,4.10,9,Shopee Thailand,Primary 12V input power supply
-11,Power,XL4015 5A Step-Down DC-DC Buck Converter Module,1,75.00,75.00,2.20,5,Shopee Thailand,Regulates 12V down to 5.5V-6.0V for 5 servos
-12,Custom PCB,Custom 2-Layer KiCad Carrier PCB (5 pcs + shipping to TH),1,380.00,380.00,11.00,22,JLCPCB,Hosts ESP32 buck converter sensor headers and 5x servo pins
-13,PCB Components,2.54mm Pin Headers Screw Terminals & 1000uF 16V Electrolytic Caps,1,90.00,90.00,2.65,6,Shopee Thailand,Decoupling capacitor and connectors for carrier PCB
-14,Fasteners,M1 / M1.2 / M1.4 / M1.7 Micro Electronic Screw Assortment Kit,1,85.00,85.00,2.50,5,Shopee Thailand,M1.4/M1.6 screws fasten directly into MG90S servo horns
-15,Fasteners,M2 & M3 Screw + Nyloc Nut Assortment Kit,1,130.00,130.00,3.80,8,Shopee Thailand,Structural joints base mounting and gripper assembly
-16,Wiring,22 AWG Silicone Stranded Wire + Servo Extension Cables,1,110.00,110.00,3.25,7,Shopee Thailand,Internal routing through Boom 1 and Boom 2
-TOTAL,,,22,,2115.00,61.80,124,,Well under 250-Scrap target for Bambu Lab A1 Mini
+Item,Category,Qty,Estimated Cost (USD),Vendor / Source,Product URL,Role / Justification in Build
+Custom 2-Layer PCB,Hardware,1,"$4.00","JLCPCB","https://jlcpcb.com","Main carrier board integrating ESP32, power regulation, and headers"
+ESP32 DevKit V1 (38-Pin),Electronics,1,"$7.00","AliExpress / Amazon","https://www.aliexpress.com","Microcontroller running kinematics, servo loops, and sensor polling"
+MG996R Servo Motors,Actuators,4,"$24.00","AliExpress / Amazon","https://www.aliexpress.com","High-torque actuation for Base, Shoulder, Elbow, and Wrist joints"
+SG90 Micro Servo,Actuators,1,"$3.00","AliExpress / Amazon","https://www.aliexpress.com","Precision end-effector actuation for the gripper jaw"
+TCS34725 RGB Color Sensor,Sensors,1,"$6.00","Adafruit / AliExpress","https://www.adafruit.com","Color classification positioned at the stationary bowl-chute sensor station"
+HX711 + Load Cell (5kg),Sensors,1,"$5.00","AliExpress / Amazon","https://www.aliexpress.com","Weight sensing integrated directly into the custom sloped sorting bowl"
+PLA Filament (1kg Spool),Fabrication,1,"$20.00","Amazon / Local","https://www.amazon.com","Structural 3D-printed arm links, chassis, and bowl-chute module"
+Fasteners (M3 Bolts/Nuts/Bearings),Hardware,1,"$8.00","Hardware Store / Amazon","https://www.amazon.com","Mechanical joints, pivot points, and structural assembly"
+PCB Shipping (JLCPCB),Shipping,1,"$9.46","JLCPCB","https://jlcpcb.com","Standard air courier shipping for custom PCB batch"
+TOTAL COST,,,,$86.46,,,

@@ -1,4 +1,4 @@
-Item,Category,Qty,Estimated Cost (USD),Est. Cost (THB),Vendor / Source,Product URL,Role / Justification in Build
+Item,Category,Qty,Estimated Cost + Delivery (USD),Est. Cost + Delivery (THB),Vendor / Source,Product URL,Role / Justification in Build
 Custom 2-Layer PCB,Hardware,1,"$4.00","140 THB","JLCPCB","Check cart screenshot in Docs!","Main carrier board integrating ESP32, power regulation, and headers"
 ESP32 DevKit V1 (38-Pin),Electronics,1,"$7.00","245 THB","AliExpress / Amazon","","Microcontroller running kinematics, servo loops, and sensor polling"
 MG996R Servo Motors,Actuators,4,"$24.00","840 THB","AliExpress / Amazon","","High-torque actuation for Base, Shoulder, Elbow, and Wrist joints"

@@ -1,11 +1,11 @@
-Item,Category,Qty,Estimated Cost (USD),Vendor / Source,Product URL,Role / Justification in Build
-Custom 2-Layer PCB,Hardware,1,"$4.00","JLCPCB","Check screenshot in Docs!","Main carrier board integrating ESP32, power regulation, and headers"
-ESP32 DevKit V1 (38-Pin),Electronics,1,"$7.00","AliExpress / Amazon","","Microcontroller running kinematics, servo loops, and sensor polling"
-MG996R Servo Motors,Actuators,4,"$24.00","AliExpress / Amazon","","High-torque actuation for Base, Shoulder, Elbow, and Wrist joints"
-SG90 Micro Servo,Actuators,1,"$3.00","AliExpress / Amazon","","Precision end-effector actuation for the gripper jaw"
-TCS34725 RGB Color Sensor,Sensors,1,"$6.00","Adafruit / AliExpress","","Color classification positioned at the stationary bowl-chute sensor station"
-HX711 + Load Cell (5kg),Sensors,1,"$5.00","AliExpress / Amazon","","Weight sensing integrated directly into the custom sloped sorting bowl"
-PLA Filament (1kg Spool),Fabrication,1,"$20.00","Amazon / Local","","Structural 3D-printed arm links, chassis, and bowl-chute module"
-Fasteners (M3 Bolts/Nuts/Bearings),Hardware,1,"$8.00","Hardware Store / Amazon","","Mechanical joints, pivot points, and structural assembly"
-PCB Shipping (JLCPCB),Shipping,1,"$9.46","JLCPCB","","Standard air courier shipping for custom PCB batch"
-TOTAL COST,,,$86.46,,,
+Item,Category,Qty,Estimated Cost (USD),Est. Cost (THB),Vendor / Source,Product URL,Role / Justification in Build
+Custom 2-Layer PCB,Hardware,1,"$4.00","140 THB","JLCPCB","Check cart screenshot in Docs!","Main carrier board integrating ESP32, power regulation, and headers"
+ESP32 DevKit V1 (38-Pin),Electronics,1,"$7.00","245 THB","AliExpress / Amazon","","Microcontroller running kinematics, servo loops, and sensor polling"
+MG996R Servo Motors,Actuators,4,"$24.00","840 THB","AliExpress / Amazon","","High-torque actuation for Base, Shoulder, Elbow, and Wrist joints"
+SG90 Micro Servo,Actuators,1,"$3.00","105 THB","AliExpress / Amazon","","Precision end-effector actuation for the gripper jaw"
+TCS34725 RGB Color Sensor,Sensors,1,"$6.00","210 THB","Adafruit / AliExpress","","Color classification positioned at the stationary bowl-chute sensor station"
+HX711 + Load Cell (5kg),Sensors,1,"$5.00","175 THB","AliExpress / Amazon","","Weight sensing integrated directly into the custom sloped sorting bowl"
+PLA Filament (1kg Spool),Fabrication,1,"$20.00","700 THB","Amazon / Local","","Structural 3D-printed arm links, chassis, and bowl-chute module"
+Fasteners (M3 Bolts/Nuts/Bearings),Hardware,1,"$8.00","280 THB","Hardware Store / Amazon","","Mechanical joints, pivot points, and structural assembly"
+PCB Shipping (JLCPCB),Shipping,1,"$9.46","331 THB","JLCPCB","","Standard air courier shipping for custom PCB batch"
+TOTAL COST,,,","$86.46","3,026 THB",,,
